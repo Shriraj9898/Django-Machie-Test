@@ -1,3 +1,5 @@
+<img width="1906" height="670" alt="image" src="https://github.com/user-attachments/assets/a0cdcfbd-14e5-4fb9-90c6-b4c90fac642f" />
+
 # Django REST API Project
 
 A complete Django REST API system for managing Users, Clients, and Projects with full CRUD operations.
@@ -274,5 +276,6 @@ The API uses Django's session authentication. To access protected endpoints:
    - API tests
 
 ## 📞 Support
+
 
 For any questions or issues, please refer to the Django documentation or create an issue in the project repository. 
